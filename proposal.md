@@ -1,5 +1,5 @@
 # Final Project
-# Title
+# Pyquest Game
 
 ## Repository
 <[Link to your project's public GitHub respository](https://github.com/tuheye/Final_Project.git)>
